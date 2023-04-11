@@ -1,2 +1,5 @@
 # Personal-Webside-PI
 First project in Fullstack
+HELLO I AM JUANMA
+THIS IS MY EXPERIENCE LEARNING AS A SOFTWARE DEL
+
